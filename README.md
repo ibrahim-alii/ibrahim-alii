@@ -1,7 +1,6 @@
 ## hey, i'm ibrahim
 
-computer engineering student interested in **ai/ml, inference, and embedded systems**.  
-i like building things across software and hardware, especially projects involving ai/ml, CUDA, and edge devices.
+computer engineering student interested in **ai/ml**, **inference**, and **embedded systems**. i like building things across software and hardware.
 
 ## projects
 
@@ -16,7 +15,7 @@ i like building things across software and hardware, especially projects involvi
 
 <ul>
 <li>hybrid dense + BM25 retrieval with cross-encoder reranking</li>
-<li><b>91% top-5 retrieval recall</b>, <b>0.93 MRR</b></li>
+<li>91% top-5 retrieval recall, 0.93 MRR</li>
 </ul>
 
 </td>
@@ -66,10 +65,6 @@ i like building things across software and hardware, especially projects involvi
 </td>
 </tr>
 </table>
-
-## what i'm interested in
-
-`edge AI` `computer vision` `inference` `embedded systems` `machine learning` `systems`
 
 ## tools i use
 
