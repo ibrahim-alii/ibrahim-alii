@@ -1,6 +1,6 @@
 ## hey, i'm ibrahim
 
-computer engineering student interested in **ai/ml**, **inference**, and **embedded systems**. i like building things across software and hardware.
+computer engineering student interested in **ai/ml**, **inference**, and **embedded systems**. 
 
 ## projects
 
@@ -69,7 +69,5 @@ computer engineering student interested in **ai/ml**, **inference**, and **embed
 ## tools i use
 
 **languages:** `Python` `C/C++` `CUDA` `Java`
-
 **ML / vision:** `PyTorch` `OpenCV` `MediaPipe` `Hugging Face`
-
 **systems/tooling:** `Linux` `Docker` `CMake` `Git` `Nsight Compute` `Nsight Systems`
