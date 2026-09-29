@@ -66,6 +66,8 @@ computer engineering student interested in **ai/ml**, **inference**, and **embed
 </tr>
 </table>
 
+## technical skills and tools
+
 **languages:** `Python` `C/C++` `CUDA` `Java`<br>
 **ML / vision:** `PyTorch` `OpenCV` `MediaPipe` `Hugging Face`<br>
 **systems/tooling:** `Linux` `Docker` `CMake` `Git` `Nsight Compute` `Nsight Systems`
