@@ -6,10 +6,9 @@
   </sub>
 </div>
 
-# hey, i'm ibrahim
+## hey, i'm ibrahim
 
-computer engineering student interested in **ai/ml, inference, and embedded systems**.
-
+computer engineering student interested in **ai/ml, inference, and embedded systems**. 
 i like building things across software and hardware, especially projects involving ai/ml, cuda, and edge devices.
 
 ## projects
@@ -18,7 +17,6 @@ i like building things across software and hardware, especially projects involvi
 *Python · Qdrant · FastAPI · LangGraph · Groq*
 
 conversational Corrective RAG for research papers.
-
 - hybrid dense + BM25 retrieval
 - cross-encoder reranking + parent-child chunking
 - LangGraph-based corrective retrieval pipeline
@@ -28,7 +26,6 @@ conversational Corrective RAG for research papers.
 *CUDA C++ · FP16 · CMake · Nsight Compute · Nsight Systems*
 
 implementing FlashAttention-2 from scratch in CUDA for efficient scaled dot-product attention.
-
 - shared-memory tiling
 - numerically stable online softmax
 - causal attention support
@@ -39,7 +36,6 @@ implementing FlashAttention-2 from scratch in CUDA for efficient scaled dot-prod
 *Python · PyTorch · MediaPipe · Transformers · OpenCV*
 
 building an ASL-to-english translation pipeline from continuous video.
-
 - extracts 255-D MediaPipe Holistic landmark sequences
 - projects spatiotemporal features into a pretrained T5 encoder
 - experimenting with YouTube-ASL and How2Sign
@@ -49,7 +45,6 @@ building an ASL-to-english translation pipeline from continuous video.
 *C/C++ · LoRa · nRF52840 · AES-CCM · embedded systems*
 
 offline emergency communication system for areas without reliable cellular coverage.
-
 - LoRa-based mesh networking for SOS and location sharing
 - hardware-accelerated AES-CCM encryption
 - authenticated routing metadata using AAD
