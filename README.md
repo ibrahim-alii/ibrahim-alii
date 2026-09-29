@@ -18,11 +18,9 @@ i like building things across software and hardware, especially projects involvi
 <td width="50%" valign="top">
 
 ### [ferret](https://github.com/ibrahim-alii/ferret)
-
 <sub><i>Python · Qdrant · FastAPI · LangGraph · Groq</i></sub>
 
 conversational Corrective RAG for research papers.
-
 - hybrid dense + BM25 retrieval with cross-encoder reranking
 - **91% top-5 retrieval recall**, **0.93 MRR**
 
@@ -30,11 +28,9 @@ conversational Corrective RAG for research papers.
 <td width="50%" valign="top">
 
 ### [FlashAttention-2 CUDA kernel](https://github.com/ibrahim-alii/flashAttention-2) — in progress
-
 <sub><i>CUDA C++ · FP16 · CMake · Nsight Compute · Nsight Systems</i></sub>
 
 implementing FlashAttention-2 from scratch in CUDA for efficient scaled dot-product attention.
-
 - shared-memory tiling and online softmax
 - profiling and optimizing memory access and GPU execution
 
@@ -45,11 +41,9 @@ implementing FlashAttention-2 from scratch in CUDA for efficient scaled dot-prod
 <td width="50%" valign="top">
 
 ### [real-time ASL translation](https://github.com/ibrahim-alii/real-time-ASL-detector) — in progress
-
 <sub><i>Python · PyTorch · MediaPipe · Transformers · OpenCV</i></sub>
 
 building an ASL-to-english translation pipeline from continuous video.
-
 - converts video into 255-D MediaPipe Holistic landmark sequences
 - testing training strategies across YouTube-ASL and How2Sign
 
@@ -57,11 +51,9 @@ building an ASL-to-english translation pipeline from continuous video.
 <td width="50%" valign="top">
 
 ### [SafeTrack](https://github.com/AishaniG7/SafeTrack-Spring-2026)
-
 <sub><i>C/C++ · LoRa · nRF52840 · AES-CCM · embedded systems</i></sub>
 
 offline emergency communication system for areas without reliable cellular coverage.
-
 - LoRa mesh networking for SOS and location sharing
 - hardware-accelerated AES-CCM encryption using the nRF52840
 
