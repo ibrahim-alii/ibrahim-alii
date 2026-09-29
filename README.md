@@ -23,7 +23,7 @@ i like building things across software and hardware, especially projects involvi
 
 <td width="50%" valign="top">
 
-<b><a href="https://github.com/ibrahim-alii/flashAttention-2">FlashAttention-2 CUDA kernel</a> <sub>— in progress</sub></b><br>
+<b><a href="https://github.com/ibrahim-alii/flashAttention-2">FlashAttention-2 CUDA kernel</a> <small>— in progress</small></b><br>
 <sub><i>CUDA C++ · FP16 · CMake · Nsight Compute · Nsight Systems</i></sub>
 
 <p>implementing FlashAttention-2 from scratch in CUDA for efficient scaled dot-product attention.</p>
@@ -39,7 +39,7 @@ i like building things across software and hardware, especially projects involvi
 <tr>
 <td width="50%" valign="top">
 
-<b><a href="https://github.com/ibrahim-alii/real-time-ASL-detector">real-time ASL translation</a> <sub>— in progress</sub></b><br>
+<b><a href="https://github.com/ibrahim-alii/real-time-ASL-detector">real-time ASL translation</a> <small>— in progress</small></b><br>
 <sub><i>Python · PyTorch · MediaPipe · Transformers · OpenCV</i></sub>
 
 <p>building an ASL-to-english translation pipeline from continuous video.</p>
