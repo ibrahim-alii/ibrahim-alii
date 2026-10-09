@@ -1,4 +1,4 @@
-## hey, i'm ibrahim
+## hey, i'm ibrahim!
 
 computer engineering student interested in **ai/ml**, **inference**, and **embedded systems**. 
 
